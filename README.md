@@ -17,7 +17,11 @@ Solo tendran que agregar su lista de participantes, y el juego hará el resto!!!
 
 ## Screenshots
 
-![App Screenshot](assets/Ejemplo.mp4)
+
+
+https://github.com/user-attachments/assets/c20ed604-b441-44ec-99ce-d747866ffaba
+
+
 
 
 
